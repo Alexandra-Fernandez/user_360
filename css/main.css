@@ -1,0 +1,80 @@
+.section {
+	padding-top: 100px;
+}
+.logo {
+	width: 30%;
+	padding-top: 10px;
+}
+.contenedor {
+	background-image: url(../image/large.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 700px;
+	background-repeat: no-repeat;
+}
+h1 {
+	color: #FFFFFF;
+	padding-top: 300px;
+	text-align: center;
+}
+.icon {
+	font-size: 60px;
+	color: #6DB0FF;
+}
+.servicios {
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	color: #6DB0FF;
+}
+.flecha {
+	text-align: center;
+}
+.separador {
+	text-align: center;
+}
+.titulo {
+	color: #6C89A5;
+}
+.parrafo {
+	color: #7D7D7D;
+}
+.pasos {
+    padding-top: 30px;
+}
+.paso {
+    color: #A3CDFF;	
+}
+.bloque {
+	background-image: url(../image/sec-2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 550px;
+	opacity: 0.7;
+}
+.imagen {
+	background-image: url(../image/banner.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 90%;
+	height: 350px;
+}
+.prueba_gratuita {
+	background-color: #74A3DB;
+	width: 100%;
+	height: 100px;
+}
+.prueba {
+	text-align: center;
+}
+.user {
+	width: 25%;
+	height: 40px;
+}
+.escribenos {
+	background-color: #2A3541;
+	width: 100%;
+	height: 100px;
+	color: white;
+}
